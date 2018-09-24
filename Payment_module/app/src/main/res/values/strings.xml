@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Payment_module</string>
+
+    <string-array name="delivery_hours">
+        <item>
+            Select delivery hours
+        </item>
+        <item>
+            7am to 9pm delivery
+        </item>
+        <item>
+            10am to 5pm delivery
+        </item>
+    </string-array>
+</resources>
